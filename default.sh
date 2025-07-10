@@ -27,6 +27,7 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/cyberdelia/CyberRealistic/resolve/main/CyberRealistic_V9_FP32.safetensors"
     #"https://huggingface.co/AI-Porn/pornworks-nude-people-photo-realistic-nsfw-flux-1d-checkpoint/resolve/main/pornworksNudePeoplePhoto_02.safetensors"
     "https://huggingface.co/sinjuku/models-moved/resolve/main/PornVision.safetensors"
+    "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors"
 
 )
 
