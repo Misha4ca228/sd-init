@@ -25,6 +25,7 @@ CHECKPOINT_MODELS=(
     "https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors"
     "https://huggingface.co/minaiosu/pornworksai/resolve/main/pornworksRealPornPhoto_ponyV04.safetensors"
     "https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate_v3-inpainting.safetensors?download=true"
+    "https://huggingface.co/AI-Porn/pornworks-nude-people-photo-realistic-nsfw-flux-1d-checkpoint/resolve/main/pornworksNudePeoplePhoto_02.safetensors"
 
 )
 
