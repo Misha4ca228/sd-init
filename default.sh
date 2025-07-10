@@ -23,26 +23,16 @@ EXTENSIONS=(
 
 CHECKPOINT_MODELS=(
     "https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors"
-    "https://huggingface.co/minaiosu/pornworksai/resolve/main/pornworksRealPornPhoto_ponyV04.safetensors"
-    "https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate_v3-inpainting.safetensors?download=true"
+    #"https://huggingface.co/minaiosu/pornworksai/resolve/main/pornworksRealPornPhoto_ponyV04.safetensors"
+    "https://huggingface.co/cyberdelia/CyberRealistic/resolve/main/CyberRealistic_V9_FP32.safetensors"
     "https://huggingface.co/AI-Porn/pornworks-nude-people-photo-realistic-nsfw-flux-1d-checkpoint/resolve/main/pornworksNudePeoplePhoto_02.safetensors"
 
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/159408?type=Model&format=SafeTensor"
-    "https://s3.timeweb.cloud/4825a983-34e6ed80-4ada-42b9-b82f-341439811efe/ai_models/Christmas_Tree_Dress_v1.safetensors"
-    "https://s3.timeweb.cloud/4825a983-34e6ed80-4ada-42b9-b82f-341439811efe/ai_models/miko_v1_09.safetensors"
-    "https://s3.timeweb.cloud/4825a983-34e6ed80-4ada-42b9-b82f-341439811efe/ai_models/Policegirls.safetensors"
-    "https://s3.timeweb.cloud/4825a983-34e6ed80-4ada-42b9-b82f-341439811efe/ai_models/sexy_donghua_clothes.safetensors"
-    "https://s3.timeweb.cloud/4825a983-34e6ed80-4ada-42b9-b82f-341439811efe/ai_models/Slutty_leather_nurse.safetensors"
-    "https://s3.timeweb.cloud/4825a983-34e6ed80-4ada-42b9-b82f-341439811efe/ai_models/FutanariErect-v1.safetensors"
 )
 
 VAE_MODELS=(
-    "https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
-    "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
-
 )
 
 ESRGAN_MODELS=(
