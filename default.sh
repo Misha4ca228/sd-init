@@ -18,7 +18,7 @@ PIP_PACKAGES=(
   )
 
 EXTENSIONS=(
-
+ "https://github.com/camenduru/IP-Adapter"
 )
 
 CHECKPOINT_MODELS=(
