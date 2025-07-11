@@ -34,6 +34,7 @@ CHECKPOINT_MODELS=(
 )
 
 LORA_MODELS=(
+"https://huggingface.co/davivi22/smlv_lora/resolve/main/last.safetensors"
 )
 
 VAE_MODELS=(
